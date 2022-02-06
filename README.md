@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @EgosYanChar
-- 🌱 I’m currently learning Front-end / Back-end 
+
+Eğitim / Bootcamp projeleri için prfildir.
+[Main Profile](https://github.com/egospekos)
+
+
+
 
 <!---
 EgosYanChar/EgosYanChar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
