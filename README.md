@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EgosYanChar
+### Hello there !
 
-Eğitim / Bootcamp projeleri için prfildir.
-[Main Profile](https://github.com/egospekos)
+*Eğitim / Bootcamp projeleri için profildir.*<br><br>
+[Go to my profile](https://github.com/egospekos)
 
 
 
